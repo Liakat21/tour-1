@@ -1,0 +1,36 @@
+
+.d-block{
+    height: 600px;
+}
+
+.package{
+    color: rgb(76, 76, 230);
+}
+
+.card:hover{
+    -webkit-box-shadow : -1px 9px 40px -12px rgba(0,0,0,0.75);
+    -moz-box-shadow : -1px 9px 40px -12px rgba(0,0,0,0.75);
+    box-shadow : -1px 9px 40px -12px rgba(0,0,0,0.75);
+}
+
+
+.actor{
+    margin-top: 10px;
+    margin-left: 95px;
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+
+}
+.d-flex{
+    margin-left: 150px;
+    
+}
+.star{
+    color: orange;
+}
+.b-top{
+    background-color:cyan;
+    border-radius: 5px;
+    
+}

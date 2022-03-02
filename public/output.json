@@ -1,0 +1,50 @@
+ [
+	{
+		"id": 1,
+		"key": "hajsaof",
+		"package": 2500,
+		"name": "Statue Of Liberty",
+		"description": "The 3 day holiday packages are designed in a way so that our clients can get a better joy in such lesser period of time. We have mentioned the details of our 2 nights 3 days package on our official website and all you need to do is the selection of the desired one. Every individual package is filled with different joys. Here you can immerse yourself with the relative delights.",
+		"image": "https://images.pexels.com/photos/356844/pexels-photo-356844.jpeg"
+	},
+	{
+		"id": 2,
+		"key": "haslfsfkkl",
+		"package": 3500,
+		"name": "London",
+		"description": "The 3 day holiday packages are designed in a way so that our clients can get a better joy in such lesser period of time. We have mentioned the details of our 2 nights 3 days package on our official website and all you need to do is the selection of the desired one. Every individual package is filled with different joys. Here you can immerse yourself with the relative delights.",
+		"image": "https://images.pexels.com/photos/2887633/pexels-photo-2887633.jpeg"
+	},
+	{
+		"id": 3,
+		"key": "jkasjhhia",
+		"package": 4500,
+		"name": "Tajmahal",
+		"description": "The 3 day holiday packages are designed in a way so that our clients can get a better joy in such lesser period of time. We have mentioned the details of our 2 nights 3 days package on our official website and all you need to do is the selection of the desired one. Every individual package is filled with different joys. Here you can immerse yourself with the relative delights.",
+		"image": "https://images.pexels.com/photos/5848766/pexels-photo-5848766.jpeg"
+	},
+	{
+		"id": 4,
+		"key": "adjjaljha",
+		"package": 1500,
+		"name": "Thailand",
+		"description": "The 3 day holiday packages are designed in a way so that our clients can get a better joy in such lesser period of time. We have mentioned the details of our 2 nights 3 days package on our official website and all you need to do is the selection of the desired one. Every individual package is filled with different joys. Here you can immerse yourself with the relative delights.",
+		"image": "https://images.pexels.com/photos/358229/pexels-photo-358229.jpeg"
+	},
+	{
+		"id": 5,
+		"key": "uajajie",
+		"package": 2500,
+		"name": "Colosseum",
+		"description": "The 3 day holiday packages are designed in a way so that our clients can get a better joy in such lesser period of time. We have mentioned the details of our 2 nights 3 days package on our official website and all you need to do is the selection of the desired one. Every individual package is filled with different joys. Here you can immerse yourself with the relative delights.",
+		"image": "https://images.pexels.com/photos/356966/pexels-photo-356966.jpeg"
+	},
+	{
+		"id": 6,
+		"key": "ohisasrsa",
+		"package": 5500,
+		"name": "Avarest",
+		"description": "The 3 day holiday packages are designed in a way so that our clients can get a better joy in such lesser period of time. We have mentioned the details of our 2 nights 3 days package on our official website and all you need to do is the selection of the desired one. Every individual package is filled with different joys. Here you can immerse yourself with the relative delights.",
+		"image": "https://images.pexels.com/photos/9801136/pexels-photo-9801136.jpeg"
+	}
+]
