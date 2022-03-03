@@ -48,101 +48,98 @@ const Home = () => {
             <div>
                 <h1 className="package text-center">Our Package</h1>
             </div>
-
-            <div className="container my-4">
-                <div class="row row-cols-1 row-cols-md-2 g-4">
-                    <div className="col">
-                        <div className="card">
-                            <img src="https://images.pexels.com/photos/356844/pexels-photo-356844.jpeg" className="card-img-top" alt="..." />
-                            <div className="card-body text-start">
+            <div className='container my-4'>
+            <div class="row row-cols-1 row-cols-md-3 g-4">
+  <div class="col">
+    <div class="card">
+      <img src="https://images.pexels.com/photos/356844/pexels-photo-356844.jpeg" class="card-img-top" alt="..."/>
+      <div className="card-body text-start">
                                 <h2 className="card-title text-primary">Statue Of Liberty</h2>
-                                <h4 className="text-primary">ID : 1</h4>
-                                <h5 className="text-primary">Key : hajsaof</h5>
-                                <p className="card-text">The 3 day holiday packages are designed in a way so that our clients can get a better joy in such lesser period of time. We have mentioned the details of our 2 nights 3 days package on our official website and all you need to do is the selection of the desired one. Every individual package is filled with different joys. Here you can immerse yourself with the relative delights..</p>
+                               
+                                <p className="card-text">The 3 day holiday packages are designed in a way so that our clients can get a better joy in such lesser period of time.</p>
                                 <h3 className="text-primary">package : 5000$</h3>
 
                                 <button type="button" class="btn btn-primary">Book Now</button>
 
                             </div>
-                        </div>
-                    </div>
-                    <div className="col">
-                        <div className="card">
-                            <img src="https://images.pexels.com/photos/2887633/pexels-photo-2887633.jpeg" className="card-img-top" alt="..." />
-                            <div className="card-body text-start">
+    </div>
+  </div>
+  <div class="col">
+    <div class="card">
+      <img src="https://images.pexels.com/photos/2887633/pexels-photo-2887633.jpeg" class="card-img-top" alt="..."/>
+      <div className="card-body text-start">
                                 <h2 className="card-title text-primary">London</h2>
-                                <h4 className="text-primary">ID : 2</h4>
-                                <h5 className="text-primary">Key : haslfsfkkl</h5>
-                                <p className="card-text">The 3 day holiday packages are designed in a way so that our clients can get a better joy in such lesser period of time. We have mentioned the details of our 2 nights 3 days package on our official website and all you need to do is the selection of the desired one. Every individual package is filled with different joys. Here you can immerse yourself with the relative delights.</p>
+                               
+                                <p className="card-text">The 3 day holiday packages are designed in a way so that our clients can get a better joy in such lesser period of time.</p>
                                 <h3 className="text-primary">package : 4500$</h3>
 
                                 <button type="button" class="btn btn-primary">Book Now</button>
 
                             </div>
-                        </div>
-                    </div>
-                    <div className="col">
-                        <div className="card">
-                            <img src="https://images.pexels.com/photos/5848766/pexels-photo-5848766.jpeg" className="card-img-top" alt="..." />
-                            <div className="card-body text-start">
+    </div>
+  </div>
+  <div class="col">
+    <div class="card">
+      <img src="https://images.pexels.com/photos/5848766/pexels-photo-5848766.jpeg" class="card-img-top" alt="..."/>
+      <div className="card-body text-start">
                                 <h2 className="card-title text-primary">Tajmahal</h2>
-                                <h4 className="text-primary">ID : 3</h4>
-                                <h5 className="text-primary">Key : jkasjhhia</h5>
-                                <p className="card-text">The 3 day holiday packages are designed in a way so that our clients can get a better joy in such lesser period of time. We have mentioned the details of our 2 nights 3 days package on our official website and all you need to do is the selection of the desired one. Every individual package is filled with different joys. Here you can immerse yourself with the relative delights.</p>
+                              
+                                <p className="card-text"> We have mentioned the details of our 2 nights 3 days package on our official website and all you need to do is the selection of the desired one.</p>
                                 <h3 className="text-primary">package : 1500$</h3>
 
                                 <button type="button" class="btn btn-primary">Book Now</button>
 
                             </div>
-                        </div>
-                    </div>
-                    <div className="col">
-                        <div className="card">
-                            <img src="https://images.pexels.com/photos/358229/pexels-photo-358229.jpeg" className="card-img-top" alt="..." />
-                            <div className="card-body text-start">
+    </div>
+  </div>
+  <div class="col">
+    <div class="card">
+      <img src="https://images.pexels.com/photos/358229/pexels-photo-358229.jpeg" class="card-img-top" alt="..."/>
+      <div className="card-body text-start">
                                 <h2 className="card-title text-primary">Thailand</h2>
-                                <h4 className="text-primary">ID : 4</h4>
-                                <h5 className="text-primary">Key : adjjaljha</h5>
-                                <p className="card-text">The 3 day holiday packages are designed in a way so that our clients can get a better joy in such lesser period of time. We have mentioned the details of our 2 nights 3 days package on our official website and all you need to do is the selection of the desired one. Every individual package is filled with different joys. Here you can immerse yourself with the relative delights..</p>
+                               
+                                <p className="card-text">The 3 day holiday packages are designed in a way so that our clients can get a better joy in such lesser period of time. </p>
                                 <h3 className="text-primary">package : 3000$</h3>
 
                                 <button type="button" class="btn btn-primary">Book Now</button>
 
                             </div>
-                        </div>
-                    </div>
-                    <div className="col">
-                        <div className="card">
-                            <img src="https://images.pexels.com/photos/356966/pexels-photo-356966.jpeg" className="card-img-top" alt="..." />
-                            <div className="card-body text-start">
+    </div>
+  </div>
+  <div class="col">
+    <div class="card">
+      <img src="https://images.pexels.com/photos/356966/pexels-photo-356966.jpeg" class="card-img-top" alt="..."/>
+      <div className="card-body text-start">
                                 <h2 className="card-title text-primary">Colosseum</h2>
-                                <h4 className="text-primary">ID : 5</h4>
-                                <h5 className="text-primary">Key : uajajie</h5>
-                                <p className="card-text">The 3 day holiday packages are designed in a way so that our clients can get a better joy in such lesser period of time. We have mentioned the details of our 2 nights 3 days package on our official website and all you need to do is the selection of the desired one. Every individual package is filled with different joys. Here you can immerse yourself with the relative delights..</p>
+                           
+                                <p className="card-text"> We have mentioned the details of our 2 nights 3 days package you need to do is the selection of the desired one.</p>
                                 <h3 className="text-primary">package : 4000$</h3>
 
                                 <button type="button" class="btn btn-primary">Book Now</button>
 
                             </div>
-                        </div>
-                    </div>
-                    <div className="col">
-                        <div className="card">
-                            <img src="https://images.pexels.com/photos/9801136/pexels-photo-9801136.jpeg" className="card-img-top" alt="..." />
-                            <div className="card-body text-start">
+    </div>
+  </div>
+  <div class="col">
+    <div class="card">
+      <img src="https://images.pexels.com/photos/9801136/pexels-photo-9801136.jpeg" class="card-img-top" alt="..."/>
+      <div className="card-body text-start">
                                 <h2 className="card-title text-primary">Avarest</h2>
-                                <h4 className="text-primary">ID : 6</h4>
-                                <h5 className="text-primary">Key : ohisasrsa</h5>
-                                <p className="card-text">The 3 day holiday packages are designed in a way so that our clients can get a better joy in such lesser period of time. We have mentioned the details of our 2 nights 3 days package on our official website and all you need to do is the selection of the desired one. Every individual package is filled with different joys. Here you can immerse yourself with the relative delights.</p>
+                                
+                                <p className="card-text">The 3 day holiday packages are designed in a way so that our clients can get a better joy in such lesser period of time.</p>
                                 <h3 className="text-primary">package : 2000$</h3>
 
                                 <button type="button" class="btn btn-primary">Book Now</button>
 
                             </div>
-                        </div>
-                    </div>
-                </div>
+    </div>
+  </div>
+</div>
             </div>
+
+            
+
+            
             <div>
             <div>
                 <h1 className='text-primary text-center my-4'>Clients Review</h1>

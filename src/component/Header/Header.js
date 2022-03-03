@@ -14,7 +14,7 @@ const Header = () => {
     const { user, logout } = useFirebase();
     return (
         <div className="header-top">
-            <Navbar bg="primary" variant="dark" fixed="top" collapseOnSelect expand="lg">
+            <Navbar bg="info" variant="dark" fixed="top" collapseOnSelect expand="lg">
                 <Container>
                     <Navbar.Brand href="#home" className="tour">Tour Package</Navbar.Brand>
                     <Nav className="ml-auto">
